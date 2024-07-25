@@ -39,6 +39,8 @@ REACT_APP_API_KEY = replace-this-with-your-api-key
 ```bash
 git clone https://github.com/awssecwestafrica/React-Weather-Forecast-App.git
 
+#########
+Ensure you create a branch when cloning 
 ```
 
 - Install the packages using the command `npm install`
